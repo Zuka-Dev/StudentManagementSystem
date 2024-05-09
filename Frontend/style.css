@@ -1,0 +1,140 @@
+/* Resetting default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+}
+
+/* Navigation styles */
+/* Navigation styles */
+nav {
+  background-color: #4caf50;
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  font-size: 24px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Student form styles */
+.student-form {
+  margin: 20px auto;
+  width: 80%;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+}
+
+.student-form label,
+.student-form input,
+.student-form select,
+.student-form input[type="submit"] {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.student-form label {
+  font-weight: bold;
+  color: #333;
+}
+
+.student-form input,
+.student-form select {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+}
+.loading-message {
+  color: #4caf50;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  padding: 40px;
+}
+.student-form input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 14px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.student-form input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Display students styles */
+.display-students {
+  margin-top: 20px;
+}
+
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+}
+
+.student-table th,
+.student-table td {
+  padding: 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: left;
+  color: #333;
+}
+
+.student-table th {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.student-table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.disabled {
+  transition: 0.5s all ease-in;
+  opacity: 0.4;
+}
+.contain {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #33333383;
+  backdrop-filter: blur(30px);
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+  
+}
+.success {
+  background: #fff;
+  color: #4caf50;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  padding: 40px;
+  border-radius: 6px;
+}

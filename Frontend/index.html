@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Student Management System</title>
+  </head>
+  <body>
+    <nav><p class="heading">Student Management System</p></nav>
+    <section class="student-form">
+      <form action="" id="studentForm">
+        <label for="firstName">First Name: </label>
+        <input type="text" id="firstName" id="" placeholder="First Name" />
+
+        <label for="middleName">Middle Name: </label>
+        <input type="text" id="middleName" id="" placeholder="Middle Name" />
+        <label for="lastName">Last Name: </label>
+        <input type="text" id="lastName" id="" placeholder="Last Name" />
+
+        <label for="departmentId"> Department: </label>
+        <select id="departmentId">
+          <!-- <option value="1">Software Engineering</option>
+          <option value="2">Cyber Security</option>
+          <option value="3">Bio Technology</option>
+          <option value="4">Nursing Science</option> -->
+        </select>
+        <br />
+        <input type="submit" value="Submit" id="submit-btn" />
+      </form>
+    </section>
+    <section class="display-students">
+      <table class="student-table" id="studentTable">
+        <thead>
+          <tr>
+            <th>Reg. Number</th>
+            <th>First-Name</th>
+            <th>Middle-Name</th>
+            <th>Last-Name</th>
+            <th>Department</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <p id="loading-message" class="loading-message" style="display: none">
+        Loading...
+      </p>
+      <div class="contain">
+        <p class="success" id="success">Student successfully added</p>
+      </div>
+    </section>
+    <script src="./app.js"></script>
+  </body>
+</html>

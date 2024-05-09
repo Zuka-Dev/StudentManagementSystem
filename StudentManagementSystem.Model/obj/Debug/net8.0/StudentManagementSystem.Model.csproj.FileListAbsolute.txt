@@ -1,0 +1,14 @@
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\bin\Debug\net8.0\StudentManagementSystem.Model.deps.json
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\bin\Debug\net8.0\StudentManagementSystem.Model.runtimeconfig.json
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\bin\Debug\net8.0\StudentManagementSystem.Model.dll
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\bin\Debug\net8.0\StudentManagementSystem.Model.pdb
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.csproj.AssemblyReference.cache
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.AssemblyInfoInputs.cache
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.AssemblyInfo.cs
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.dll
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\refint\StudentManagementSystem.Model.dll
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.pdb
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\StudentManagementSystem.Model.genruntimeconfig.cache
+C:\Users\ifeanyichukwuazuka\Desktop\StudentManagementSystem\StudentManagementSystem.Model\obj\Debug\net8.0\ref\StudentManagementSystem.Model.dll
